@@ -5,7 +5,7 @@
   function preload(){
     doracakeimg = loadImage("doracake.png");
     doremonimg=loadAnimation("1.png","2.png","3.png","4.png","5.png","6.png");
-    roadimg = loadImage("base.png");
+    
     bgimg=loadImage("bg.png");
     rat=loadImage("rat.png");
     car=loadImage("car.png");
